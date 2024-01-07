@@ -26,7 +26,7 @@ SOFTWARE.
 // Text typewriter effect
 var i = 0;
 var txt = 'Lorem ipsum dummy text blabla.';
-var txt = document.getElementsByTagName('h2')[0].innerHTML;
+// var txt = document.getElementsByTagName('h2')[0].innerHTML;
 var speed = 100;
 
 function typeWriter() {
